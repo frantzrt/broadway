@@ -5,21 +5,49 @@ body {
 
 .header, .designed {
   color: white;
+  font-weight: bold;
 }
 
 .header {
   font-size: 70px;
-  font-weight: bold;
 }
 
 #links {
   font-size: 18px;
 }
 
-#top {
+#top, .designed {
     background-image: url("https://frantzrt.github.io/broadway/resources/images/the-flatiron-building.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+p {
+  font-size: 14px;
 }
 
 a {
   color: white;
+}
+
+h2, h3 {
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 23px;
+}
+
+.designed {
+  font-size: 23px;
+}
+
+.navbar {
+  font-size: 11px;
+  background-color: dimgray;
+  text-align: left;
 }
