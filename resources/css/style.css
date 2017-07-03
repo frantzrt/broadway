@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+  font-family: Helvetica;
+}
+
+.header, .designed {
+  color: white;
+}
+
+.header {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+#links {
+  font-size: 18px;
+}
+
+#top {
+    background-image: url("https://frantzrt.github.io/broadway/resources/images/the-flatiron-building.png");
+}
+
+a {
+  color: white;
+}
